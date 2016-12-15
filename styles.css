@@ -1,0 +1,135 @@
+body,html {
+  height: 100%;
+}
+
+body {
+  padding-top: 50px;
+}
+
+.row{
+   margin: 30px;
+    background-color: #ffffff;
+    
+   background:transparent;
+}
+.wide {
+  width:100%;
+  height:100%;
+  height:calc(100% - 1px);
+  background-image:url('construct1.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.roof{
+  width:100%;
+  height:100%;
+  height:calc(100% - 1px);
+  background-image:url('crane.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+} 
+
+.construct{
+  width:100%;
+  height:100%;
+  height:calc(100% - 1px);
+  background-image:url('tools.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+.OurWork{
+  width:100%;
+  height:100%;
+  height:calc(100% - 1px);
+  background-image:url('roof.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Testimonials{
+  width:100%;
+  height:100%;
+  height:calc(100% - 1px);
+  background-image:url('testimonials.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Contact{
+  width:100%;
+  height:30%;
+  height:calc(100% - 1px);
+  background-image:url('contact.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+.roof img{
+    width:100%;
+ 
+
+}
+
+.wide img {
+  width:100%;
+}
+
+.title{
+    color:#fff;
+  font-weight:800;
+  font-size:20pt;
+  padding:25px;
+  text-align:center;
+  margin-top:100px;
+}
+.logo {
+  color:#fff;
+  font-weight:800;
+  font-size:14pt;
+  padding:25px;
+  text-align:center;
+  border-style:solid;
+  border-width:.5px;
+  margin-top:100px;
+}
+
+.line {
+  padding-top:20px;
+  white-space:no-wrap;
+  overflow:hidden;
+  text-align:center;
+}
+
+
+#owl-demo .item{
+  background: #3fbf79;
+  padding: 30px 0px;
+  margin: 10px;
+  color: #FFF;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  text-align: center;
+}
+.customNavigation{
+  text-align: center;
+}
+
+.customNavigation a{
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+ 
